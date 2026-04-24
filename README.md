@@ -1,1 +1,2 @@
-"# hmms-in-finance-thesis" 
+# Undergraduate Thesis in Financial Applications of Hidden Markov Modling
+This repository contains the necessary files for understanding the methodology and recreating the results/figures of Jude Chelico's undergraduate Statistics thesis "Modeling and Exploiting Stock Market Trends with Hidden Markov Technology", written under the guidance of Julia Costacurta. Equipped with these R scripts and csvs, you should be able to recreate just about all of the content from Jude's thesis. If you have any questions or comments regarding these files, please reach out by email to judechelico417@gmail.com.
